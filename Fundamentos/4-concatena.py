@@ -19,4 +19,4 @@ print(f"Nome do filme: {name}\n"
       )
 print("Linha para teste. Estava remoto.")
 print("Essa linha foi acrescentada, estava remoto.")
-print("Essa linha de código foi acresse
+
