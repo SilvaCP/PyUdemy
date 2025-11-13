@@ -18,5 +18,5 @@ print(f"Nome do filme: {name}\n"
       f"Nota do filme: {noteMovei}"
       )
 print("Linha para teste. Estava remoto.")
-print("Essa linha foi acrescentada, estava remoto.")
+
 
