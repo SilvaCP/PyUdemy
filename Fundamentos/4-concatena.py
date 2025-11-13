@@ -17,3 +17,4 @@ print(f"Nome do filme: {name}\n"
       f"Ano de lançamento: {yearLaunch}\n"
       f"Nota do filme: {noteMovei}"
       )
+print("Teste.")
