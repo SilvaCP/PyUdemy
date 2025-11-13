@@ -17,3 +17,6 @@ print(f"Nome do filme: {name}\n"
       f"Ano de lançamento: {yearLaunch}\n"
       f"Nota do filme: {noteMovei}"
       )
+print("Testando o envio para o github.\n"
+      "Na próxima aula já pode apagar essas linhas 20 e 21."
+      )
