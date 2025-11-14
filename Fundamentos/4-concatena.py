@@ -18,6 +18,6 @@ print(f"Nome do filme: {name}\n"
       f"Nota do filme: {noteMovei}"
       )
 print("Outro Novembro.")
-print("Outro Novembro.")
+print("Outro Dezembro.")
 
 
