@@ -46,6 +46,15 @@ num1 -= 1 # num1 = mun1 - 1
 num1 *= 1 # num1 = mun1 * 1
 num1 /= 1 # num1 = mun1 / 1
 
+# Exercício
+
+num1 = int(input("Digite o primeiro número: "))
+num2 = int(input("Digite o segundo número: "))
+soma = num1 + num2
+Multiplicacao = num1 * num2
+print(f"A soma de {num1} mais {num2} é igual a: {soma}\n")
+print(f"O produto de {num1} e {num2} é igual a: {Multiplicacao}.")
+
 
 
 
