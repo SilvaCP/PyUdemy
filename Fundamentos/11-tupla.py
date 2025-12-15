@@ -23,9 +23,6 @@ print(filmeTuple.index("Big Hero"))
 
 '''
 
-
-
-
 # EXECÍCIO 7 - TUPLA.
 '''
 Escreva um programa que:
